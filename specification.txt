@@ -1,0 +1,26 @@
+1. The 10 HTTP tags used:
+    <h1></h1>
+    <h3></h3>
+    <img>
+    <ul></ul>
+    <li></li>
+    <a>
+    <style>
+    <table>
+    <blockquote></blockquote>
+    <div></div>
+
+2. The 5 CSS properties used:
+    font-family
+    font-style
+    background-color
+    color
+    padding
+
+3. How I chose to use JavaScript and Bootstrap
+I chose to use JavaScript because of its ability to create dynamic and interactive
+web pages, as well as its widespread use and support in web development.
+
+I chose to use Bootstrap because of its responsive design features, which make it easy
+to create mobile-friendly websites, and its pre-designed components, which can save time
+and effort in styling.
